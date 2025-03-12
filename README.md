@@ -6,7 +6,7 @@ This app allows you to display the different areas your stick needs to be for M 
 
 In theory this should be operating system and controller agnostic, fingers crossed XD
 
-Preview: 
+Preview: https://www.youtube.com/watch?v=ThykKD4RVIY
 
 ## Install Guide
 Download python, install pygame and then just run the Visulaizer.py file
