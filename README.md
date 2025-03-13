@@ -14,7 +14,7 @@ NOTE: The app will close itself if it cannot detect a controller (it will tell y
 Download python, install pygame and then just run the Visualiser.py file
 
 ## Windows 10/11 Install Guide
-* Open file exploerer and navigate to the folder that you have the Visualiser.py stored.
+* Open file explorer and navigate to the folder that you have the Visualiser.py stored.
 
 * Then right click and press "open in terminal"
 
