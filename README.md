@@ -20,7 +20,7 @@ Download python, install pygame and then just run the Visualiser.py file
 
 * Type "Python", press enter and install it with the microsoft store pop up (DO THIS EVEN IF YOU'VE ALREADY INSTALLED USING PYTHON WITH THE SETUP EXE)
 
-* After it install type "pip install pygame"
+* After it installs type "pip install pygame"
 
 * Then just enter "python3 .\Visualiser.py" in a cmd prompt in the folder the Visualiser.py is stored.
 
