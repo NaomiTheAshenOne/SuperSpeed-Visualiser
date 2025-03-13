@@ -1,5 +1,7 @@
 # SuperSpeed-Visualiser
 A pygame app that helps you execute the M and D speed glitch in Sonic Unleashed.
+
+## Preview
 ![image](https://github.com/user-attachments/assets/46fbe802-9df0-401b-84fe-a33e4eec9f53)
 
 ## Info
