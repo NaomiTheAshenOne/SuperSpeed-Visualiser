@@ -9,8 +9,21 @@ In theory this should be operating system and controller agnostic, fingers cross
 Preview: https://www.youtube.com/watch?v=ThykKD4RVIY
 
 ## Install Guide
-Download python, install pygame and then just run the Visulaizer.py file
+NOTE: The app will close itself if it cannot detect a controller (it will tell you a gamepad cannot be found in the terminal the app was ran with)
+
+Download python, install pygame and then just run the Visualiser.py file
+
+## Windows 10/11 Install Guide
+* Open file exploerer and navigate to the folder that you have the Visualiser.py stored.
+
+* Then right click and press "open in terminal"
+
+* Type "Python", press enter and install it with the microsoft store pop up (DO THIS EVEN IF YOU'VE ALREADY INSTALLED USING PYTHON WITH THE SETUP EXE)
+
+* After it install type "pip install pygame"
+
+* Then just enter "python3 .\Visualiser.py" in a cmd prompt in the folder the Visualiser.py is stored.
 
 ## Credit
-Me :D
-Claude 3.7 XD
+* Me :D
+* Claude 3.7 XD
